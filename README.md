@@ -7,11 +7,10 @@ Step 1) Make script excutable:
 chmod +x task1.sh
 
 Step 2) To run the script with different options, you can use the command line:
-./task1.sh cpu 
-
-./task1.sh memory
-./task1.sh disk
-./task1.sh load
+./task1.sh cpu |    
+./task1.sh memory   |  
+./task1.sh disk   |   
+./task1.sh load    |  
 ./stask1.sh all
 
 ------------------------------------------------------------------------------------------------
