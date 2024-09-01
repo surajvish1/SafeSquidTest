@@ -36,17 +36,17 @@ Run the script with various options to monitor specific metrics. The script upda
 Commands
 CPU Usage:
 
-./Task1.sh cpu
-Displays current CPU usage.
+./Task1.sh cpu 
+Displays current CPU usage. |
 
 Memory Usage:
 ./Task1.sh memory
-Shows memory usage statistics.
+Shows memory usage statistics. |
 
 Disk Usage:
 
 ./Task1.sh disk
-Lists disk usage for mounted filesystems.
+Lists disk usage for mounted filesystems. |
 
 System Load:
 
@@ -56,7 +56,7 @@ Provides system load averages.
 All Metrics:
 
 ./Task1.sh all
-Displays CPU, memory, disk, and load metrics.
+Displays CPU, memory, disk, and load metrics. |
 
 Example
 To monitor all metrics in real-time:
