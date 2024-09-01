@@ -67,7 +67,7 @@ Stopping the Script
 To exit the script, press Ctrl + C.
 
 Troubleshooting
-Command Not Found: Ensure required commands (top, grep, sed, awk, free, df, uptime) are installed.
+Command Not Found: Ensure required commands (top, grep, sed, awk, free, df, uptime) are installed. |
 Permissions: You may need appropriate permissions to execute certain commands
 
 ------------------------------------------------------------------------------------------------
